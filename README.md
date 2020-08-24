@@ -1,6 +1,8 @@
 # CubeGame
 Simple endless hypercasual game
 
+![alt text](https://i.imgur.com/ctelSUX.png)
+
 In this game you have to operate a cube which is endlessly moving forward.  
 Controls:  
 a — drag cube to left  
